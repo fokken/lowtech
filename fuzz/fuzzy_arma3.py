@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# arma3 weridness
 from scapy.all import *
 import sys
 
